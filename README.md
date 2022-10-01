@@ -1,2 +1,2 @@
 # test_cmds
-test repositories
+test repositories for git demonstration
