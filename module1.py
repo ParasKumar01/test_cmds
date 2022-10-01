@@ -16,4 +16,3 @@ if word=="yes":
     print("Let's play cricket")
 else:
     print("Okay! sorry for disturbing")
-print ("No changes in main file")
