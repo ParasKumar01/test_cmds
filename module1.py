@@ -10,3 +10,9 @@
 #-------------------------------------------------------------------------------
 
 print("hello world!")
+print("Are you free?")
+word=input("Reply:")
+if word=="yes":
+    print("Let's play cricket")
+else:
+    print("Okay! sorry for disturbing")
